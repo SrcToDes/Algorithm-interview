@@ -22,7 +22,7 @@ algorithm interview Q
 16. 设计国际象棋
 17. 爬楼梯带cost问怎么cost最小
 18. 怎么判断一个数是不是奇数
-19. `Sort的方法和算法复杂度：mergesort，O(nlogn)，具有同样复杂度的sort有quick sort,heapsort`
+19. ```Sort的方法和算法复杂度：mergesort，O(nlogn)，具有同样复杂度的sort有quick sort,heapsort```
 20. 面向对象设计：停车场、餐馆预约、参观管理、图书馆管理、送餐系统、社交网络、自动提款机、谷歌文档
 21. 给定一个2D matrix每一列的数据是用不同的单位，毫米、厘米、米、公里，然后写code转成一样的单位，面试官说要一行搞定
 22. %operator有啥用有啥局限性
@@ -32,4 +32,4 @@ algorithm interview Q
 26. 多态看代码输出结果
 27. oop概念好处
 28. matlab删除一行
-29. `O(nlogn)的base是啥`
+29. ```O(nlogn)的base是啥```
